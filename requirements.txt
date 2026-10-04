@@ -1,0 +1,9 @@
+streamlit
+langchain 
+langchain-core
+langchain-google_genai
+newspaper4k[nlp]
+lxml_html_clean
+
+
+
